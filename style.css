@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(199, 172, 40);
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+.action {
+    transition-delay: 1000;
+
+}
